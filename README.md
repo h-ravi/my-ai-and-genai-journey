@@ -15,12 +15,12 @@ Before starting the roadmap, I'm reviewing core Python through daily practice an
 - [x] Variables, Data Types, Operators
 - [x] Conditional Statements (if-elif-else)
 - [x] While Loop — ATM Machine, Bank Management System
-- [ ] For Loop — range, enumerate, zip, nested loops
-- [ ] Collections — List, Tuple, Set, Dict + Comprehensions
-- [ ] Functions — parameters, return values
-- [ ] Exception Handling — try/except/else/finally
-- [ ] 10 Core Python Practice Projects (Library, Expense Tracker, Contact Book, Quiz, Bank System, Student Analyzer, Inventory, Ticket Booking, Payroll, To-Do)
-- [ ] File Handling
+- [x] For Loop — range, enumerate, zip, nested loops
+- [x] Collections — List, Tuple, Set, Dict + Comprehensions
+- [x] Functions — parameters, return values
+- [x] Exception Handling — try/except/else/finally
+- [x] 10 Core Python Practice Projects (Library, Expense Tracker, Contact Book, Quiz, Bank System, Student Analyzer, Inventory, Ticket Booking, Payroll, To-Do)
+- [x] File Handling
 
 *(This checklist updates as I go — each item links to its Day folder once complete.)*
 
@@ -36,8 +36,8 @@ A 6-month, 29-week structured path from backend fundamentals to a job-ready GenA
 *Notebook se bahar niklo — async, APIs, Docker, CI/CD (4 Weeks)*
 
 **Week 1 — Git + Python OOP + Project Structure**
-- [ ] Git & GitHub — init, add, commit, push, pull, branches, .gitignore
-- [ ] Python OOP — classes, objects, `__init__`, instance methods
+- [x] Git & GitHub — init, add, commit, push, pull, branches, .gitignore
+- [x] Python OOP — classes, objects, `__init__`, instance methods
 - [ ] Inheritance, Encapsulation
 - [ ] Modular code — one function/class per task
 - [ ] Project structure — `src/`, `tests/`, `docs/`
